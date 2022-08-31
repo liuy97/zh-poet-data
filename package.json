@@ -1,0 +1,15 @@
+{
+  "name": "zh-poet-data",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yong Liu",
+    "email": "liuy97@gmail.com"
+  },
+  "description": "Chinese poet data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuy97/zh-poet-data.git"
+  },
+  "main": "index.js",
+  "license": "LICENSE"
+}
